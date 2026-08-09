@@ -18,7 +18,7 @@
 
 Hi, I'm **Garba Toyin** (aka **ASTROL360**), a **Web Developer** who loves turning ideas into clean, responsive websites and applications.
 
-I enjoy learning new technologies and building projects that solve real problems, from landing pages to full-stack and mobile apps.
+I enjoy learning new technologies and building projects that solve real problems, from landing pages to full-stack and mobile apps...
 
 > Code. Learn. Build. Repeat.
 
